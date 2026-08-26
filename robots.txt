@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sk50504972-creator.github.io/sitemap.xml
