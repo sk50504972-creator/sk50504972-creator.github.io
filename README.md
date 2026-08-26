@@ -2,7 +2,7 @@
 
 정적(static) 단일 페이지 홈페이지. GitHub Pages로 24시간 호스팅한다.
 
-- 공개 주소: https://sk50504972-creator.github.io/
+- 공개 주소: https://balhae.claimworks.kr/
 - 빌드 과정 없음. `index.html` 하나만 수정하면 push 즉시 반영된다(보통 1~2분).
 
 ## 파일
@@ -27,7 +27,7 @@ python -m http.server 8790 --bind 127.0.0.1
 
 # 3. 배포
 git add -A && git commit -m "수정 내용" && git push
-#    → 1~2분 뒤 https://sk50504972-creator.github.io/ 에 반영
+#    → 1~2분 뒤 https://balhae.claimworks.kr/ 에 반영
 ```
 
 ## 아직 채워야 할 항목 (플레이스홀더)
