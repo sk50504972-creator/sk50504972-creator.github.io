@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "kr.claimworks.balhae.pdf",
+        "sha256_cert_fingerprints": ["3E:3B:60:60:55:99:47:2E:E0:09:5E:8F:0A:EC:97:FB:C7:39:30:BD:91:18:1E:36:FE:A1:DD:98:65:A3:FF:5C"]
+      }
+    }]
